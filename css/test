@@ -603,7 +603,6 @@ function setAlarm() {
 
 
 
-//////////////////////////////////////////////////////////////////
     function loadAlarm(event) {
 
 	   if (event.target.classList.contains('alarm-item') || event.target.classList.contains('delete-button')) {
